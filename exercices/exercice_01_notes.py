@@ -1,6 +1,10 @@
 """
 Exercice 01: Analyseur de notes d'étudiants
 Objectif: Pratiquer variables, types, conditions, boucles simples; fonctions
+
+Auteur  : Emmanuel YÉO
+Date    : 2025
+Version : 1.0
 """
 
 notes = [12, 17, 8, 14, 19, 11, 15, 6, 18, 13, 5, 10]

@@ -1,6 +1,10 @@
 """
 Exercice 02: Statistiques descriptives sans librairie
 Objectif: Pratiquer boucles, conditions imbriqueées, logique algorithmique
+
+Auteur  : Emmanuel YÉO
+Date    : 2025
+Version : 1.0
 """
 
 donnees = [23, 45, 12, 67, 34, 89, 56, 11, 78, 42,

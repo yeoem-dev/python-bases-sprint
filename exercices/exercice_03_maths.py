@@ -1,6 +1,10 @@
 """
 Exercice 03: Bibliothèque de fonctions mathématiques
 Objectif: Maîtriser fonctions, docstrings NumPy, annotations de type
+
+Auteur  : Emmanuel YÉO
+Date    : 2025
+Version : 1.0
 """
 
 def factorielle(n: int) -> int:

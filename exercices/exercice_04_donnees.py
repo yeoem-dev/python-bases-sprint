@@ -1,6 +1,10 @@
 """
 Exercice 04: Manipulation avancée de structures de données
 Objectif: list/dict comprehensions, imbrication, manipulation réaliste
+
+Auteur  : Emmanuel YÉO
+Date    : 2025
+Version : 1.0
 """
 
 etudiants = [
